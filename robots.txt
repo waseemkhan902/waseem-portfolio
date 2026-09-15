@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waseem-hacker-portfolio.vercel.app/sitemap.xml
